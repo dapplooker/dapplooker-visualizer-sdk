@@ -1,0 +1,12 @@
+/node_modules/
+/lib/
+/test/
+/dist
+custom-elements.json
+package-lock.json
+example/node_modules
+example/package-lock.json
+# top level source
+
+# only generated for size check
+my-element.bundled.js
